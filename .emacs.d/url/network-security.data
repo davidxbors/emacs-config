@@ -1,0 +1,3 @@
+(
+ (:id "sha1:9a8d933912ca502091deeb23eb2516ff551e1e78" :fingerprints ("sha1:70:a8:5d:c2:78:a0:17:ee:99:1e:32:b8:ea:86:be:52:8a:30:00:bf" "sha1:80:c6:25:dd:74:85:1e:17:31:69:ce:05:27:02:37:25:fd:fc:b9:4a") :host "smtp.gmail.com:25" :conditions (:same-cert))
+)
